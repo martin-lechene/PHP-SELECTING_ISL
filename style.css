@@ -1,0 +1,29 @@
+body {
+    background-color: black;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 20px;
+    font-size: 20px;
+}
+H1{
+    color: rgb(0, 255, 115);
+}
+h6{
+    color: rgb(0, 255, 115);
+}
+
+p.bio{
+    text-align: center;
+    text-decoration: none;
+    font-style: italic;
+    color:azure;
+}
+p.name{
+    color:aquamarine;
+    text-transform: uppercase;
+}
+span.id{
+    color: rgb(255, 0, 0);
+}
+p.list{
+    color:rgb(0, 255, 115);
+}
